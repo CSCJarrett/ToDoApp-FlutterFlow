@@ -162,7 +162,7 @@ class _LoginWidgetState extends State<LoginWidget>
                                                       fontFamily: 'Inter',
                                                       letterSpacing: 0.0,
                                                     ),
-                                            hintText: 'Email...',
+                                            hintText: 'Provide Email...',
                                             hintStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
