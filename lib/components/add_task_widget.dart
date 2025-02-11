@@ -168,7 +168,7 @@ class _AddTaskWidgetState extends State<AddTaskWidget> {
                         fontFamily: 'Inter',
                         letterSpacing: 0.0,
                       ),
-                  hintText: 'Details...',
+                  hintText: 'Provide Detail...',
                   hintStyle: FlutterFlowTheme.of(context).labelMedium.override(
                         fontFamily: 'Inter',
                         letterSpacing: 0.0,
